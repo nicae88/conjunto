@@ -128,7 +128,7 @@ if (isset($_POST['registrar-usuario'])) {
 								<div class="collapse" id="toggleDemo3" style="height: 0px;">
 									<ul class="nav nav-list">
 										<li><a href="si/residenteAdmin.html"> Residente</a></li>
-										<li><a href="#"> Vehiculo</a></li>									
+                                                                                <li><a href="registrar-vehiculo.php"> Vehiculo</a></li>									
 									</ul>
 								</div>
 							</li>
